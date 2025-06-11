@@ -57,7 +57,7 @@ Our main objectives:
   <img src="images/dashboard2.png" alt="Tableau Loan Dashboard" width="700"/>
   <p><em>Tableau Loan Dashboard</em></p>
 
-  <img src="images/dashboard3.png" alt="Excel Loan Dashboard" width="700"/>
+  <img src="Bank Loans Summary(Excel).png" alt="Excel Loan Dashboard" width="700"/>
   <p><em>Excel Loan Dashboard</em></p>
 
   <img src="images/dashboard1.png" alt="Power BI Credit & Debit Dashboard" width="700"/>
