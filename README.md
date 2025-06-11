@@ -51,13 +51,22 @@ Our main objectives:
 ## 📊 Sample Dashboards
 
 <div align="center">
-  <img src="images/dashboard1.png" alt="Power BI Dashboard" width="700"/>
+  <img src="images/dashboard1.png" alt="Power BI Loan Dashboard" width="700"/>
   <p><em>Power BI Loan Distribution Dashboard</em></p>
 
-  <img src="images/dashboard2.png" alt="Tableau Dashboard" width="700"/>
+  <img src="images/dashboard2.png" alt="Tableau Loan Dashboard" width="700"/>
   <p><em>Tableau Credit vs. Debit Trends</em></p>
 
-  <img src="images/dashboard3.png" alt="Excel Dashboard" width="700"/>
+  <img src="images/dashboard3.png" alt="Excel Loan Dashboard" width="700"/>
+  <p><em>Excel KPIs Snapshot</em></p>
+
+  <img src="images/dashboard1.png" alt="Power BI Credit & Debit Dashboard" width="700"/>
+  <p><em>Power BI Loan Distribution Dashboard</em></p>
+
+  <img src="images/dashboard2.png" alt="Tableau  Credit & Debit Dashboard" width="700"/>
+  <p><em>Tableau Credit vs. Debit Trends</em></p>
+
+  <img src="images/dashboard3.png" alt="Excel Credit & Debit Dashboard" width="700"/>
   <p><em>Excel KPIs Snapshot</em></p>
 </div>
 
